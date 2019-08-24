@@ -153,7 +153,7 @@ form.search-box::after {
 } */
 
 .readMore-white {
-  background-image: url(/images/images/read_more_white.png) no-repeat 0 0px;
+  background-image: url(images/images/read_more_white.png) no-repeat 0 0px;
   
 }
   .dropdown-content > a {
@@ -309,7 +309,7 @@ text-align: end;
   text-align: center;
   height: 38px;
   /* z-index: 999999; */
-  background: url(/images/images/footer_bg.png) repeat-x 0 0;
+  background: url(images/images/footer_bg.png) repeat-x 0 0;
 }
 
 
